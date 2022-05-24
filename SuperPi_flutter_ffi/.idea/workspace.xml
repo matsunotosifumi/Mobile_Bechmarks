@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="783d7eaf-31ca-4b7d-9c29-0f3d76674681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SuperPi_android/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperPi_android/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/app/src/main/java/com/example/superpi_android/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/app/src/main/java/com/example/superpi_android/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPi_flutter/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../super_pi_flutter_native/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../super_pi_flutter_native/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_xamarin/.vs/demo3/xs/project-cache/demo3.iOS-Debug|iPhoneSimulator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPi_xamarin/.vs/demo3/xs/project-cache/demo3.iOS-Release|iPhoneSimulator.json" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.dart_tool/" />
-    <ignored path="$PROJECT_DIR$/.idea/" />
-    <ignored path="$PROJECT_DIR$/.pub/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/example/.pub/" />
-    <ignored path="$PROJECT_DIR$/example/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,19 +32,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/flutter/bin/cache/dart-sdk/lib/ffi/ffi.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2123">
-              <caret line="65" column="43" lean-forward="true" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -60,6 +60,7 @@
     <option name="width" value="1504" />
     <option name="height" value="1009" />
   </component>
+  <component name="ProjectId" id="29bMhojBNX3zaUAlZATeK9C4UMN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -85,11 +86,20 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -98,18 +108,7 @@
       <recent name="$PROJECT_DIR$/example/lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
